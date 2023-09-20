@@ -10,5 +10,6 @@ For learning how to use git commands
 |git add .| finds all changed files|
 |git commit -m "Testing123"| commit with a message|
 |git push origin "branch"| push to branch |
+|git fetch --all| retrieves ALL others changes |
 |git pull origin "branch"| pull updates from a specific branch|
 <br>
